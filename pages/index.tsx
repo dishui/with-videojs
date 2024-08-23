@@ -16,7 +16,7 @@ export default function Index() {
 
   return (
     <>
-      This is just for the sake of it
+      This is just for the sake of it again
       <Player {...videoJsOptions} />
       <PlayerCSS />
     </>
